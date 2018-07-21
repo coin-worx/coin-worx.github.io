@@ -1,6 +1,5 @@
 theme: jekyll-theme-leap-day
 title: Coin Worx
-email: info@aurorasolutions.io
-description: 
-twitter_username: aurora__sol
-github_username: coin-worx
+description:  
+github:
+  repository_url: https://github.com/coin-worx
