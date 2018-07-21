@@ -1,4 +1,4 @@
-# Coin Worx
+# ![](coin-worx-logo.png)
 Aurora Solutions projects in the Crypto Currency space. These projects use technologies related to Bitcoin, Blockchain, Ethereum and similar APIs
 
 ## Projects
