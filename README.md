@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Coin Worx
+Aurora Solutions projects in the Crypto Currency space. These projects use technologies related to Bitcoin, Blockchain, Ethereum and similar APIs
 
-You can use the [editor on GitHub](https://github.com/coin-worx/coin-worx.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Projects
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Coin Exchange
+Coin Exchange is a high performance exchange system specialized for Crypto currency trading with different general purpose uses such as independent deposit and withdrawal channels for Bitcoin and Litecoin, and also a standalone exchange for different asset classes.
 
-### Markdown
+Frontend repository: https://github.com/coin-worx/coin-exchange-frontend
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Backend repository: https://github.com/coin-worx/coin-exchange-backend
 
-```markdown
-Syntax highlighted code block
+### Ether Wallet
+Ether Wallet is a Cryptocurrency Wallet Dapp for Ethereum. Developed with MeteorJS, Angular2, MongoDB and JQuery on the Ethereum platform, the Dapp can be used to transfer funds, manage shared wallets and start crowdfunding campaigns using the blockchain functionality of Ethereum.
 
-# Header 1
-## Header 2
-### Header 3
+Repository: https://github.com/coin-worx/ether-wallet
 
-- Bulleted
-- List
+### Ethereum Voting Dapp
+An ethereum based voting Dapp (smart contracts implementation) 
 
-1. Numbered
-2. List
+Repository: https://github.com/coin-worx/ethereum-voting-demo
 
-**Bold** and _Italic_ and `Code` text
+## Help
 
-[Link](url) and ![Image](src)
-```
+**Got a question?** 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Send us an email at info@aurorasolutions.io or reach out to us on social media [Twitter](https://twitter.com/aurora__sol?lang=en), [Facebook](https://www.facebook.com/AuroraSolutions/)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/coin-worx/coin-worx.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
+© Coin Worx - A project of [Aurora Solutions](https://aurorasolutions.io/)
